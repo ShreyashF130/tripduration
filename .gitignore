@@ -89,3 +89,11 @@ target/
 .mypy_cache/
 /data
 /models
+
+
+# Ignore heavy model copies
+model.joblib
+*.joblib
+
+# Ignore MLflow tracking data
+mlruns/
