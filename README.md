@@ -1,4 +1,4 @@
-tripduration
+tripduration (ML Model to find time duration of a trip)
 ==============================
 
 A sample ML project to build an end-to-end working app for the NYC taxi trip duration
